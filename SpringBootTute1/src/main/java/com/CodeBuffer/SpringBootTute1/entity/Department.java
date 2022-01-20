@@ -1,5 +1,5 @@
 package com.CodeBuffer.SpringBootTute1.entity;
-//hello wrold
+//hello wrol d
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
